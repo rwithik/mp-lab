@@ -1,0 +1,12 @@
+# Assembler debug file for MCU 8051 IDE v1.4.9
+# Used assembler: MCU 8051 IDE
+# Date: 05/04/2020
+B456961BAC50100E8037AB2ED6429D01 "pos_or_neg.asm" 
+0 1 0 121 80
+0 2 2 233
+0 3 3 51
+0 4 4 64 5
+0 5 6 126 1
+0 6 8 2 0 13
+0 7 11 126 0
+0 8 13 128 254
